@@ -50,11 +50,11 @@ We encourage you to dive into these materials, explore them thoroughly, and appl
 
 ## Projects - Source Code ( GitHub )
 
-**MERN - Forms [ Full Source Code ]**
-MERN Application For Statistical Forms
+**MERN - Forms [ Full Source Code ]**<br>
+MERN Application For Statistical Forms<br>
 [MERN-Forms](https://github.com/praabindh/MERN-Forms)
 
-**MERN - ToDo Application**
+**MERN - ToDo Application**<br>
 Full Stack ToDo Application - Using MERN
 
 ```bash
@@ -66,8 +66,8 @@ PORT=8000
 ```
 [MERN-ToDo-App](https://github.com/praabindh/MERN-ToDo-App)
 
-**Movie Verse Application**
-[The Movie Verse](https://github.com/praabindh/movie-verse)
+**Movie Verse Application**<br>
+[The Movie Verse](https://github.com/praabindh/movie-verse)<br>
 Complete React JS Application For Searching Through Movies
 
 ## Youtube Resources
